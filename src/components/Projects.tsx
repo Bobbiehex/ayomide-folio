@@ -19,7 +19,7 @@ const Projects = () => {
     {
       title: "AgriTech Web App",
       description: "A web application for livestock production and breeding management. Provides data-driven insights and monitoring tools for farmers.",
-      link: "https://github.com/Bobbiehex",
+      link: "https://nextgen-breeders-alliance-nu.vercel.app/",
       github: "https://github.com/Bobbiehex/nextgen-breeders-forge"
     },
     {
