@@ -13,8 +13,14 @@ const Projects = () => {
     {
       title: "Hospital Website with AI Assistant",
       description: "Integrates an AI assistant to help patients schedule appointments, access hospital information, and navigate services.",
-      link: "https://github.com/Bobbiehex",
+      link: "https://bob-med.vercel.app/",
       github: "https://github.com/Bobbiehex/bob_med"
+    },
+    {
+      title: "CropTech AI Webapp",
+      description: "Comprehensive web application for crop production and disease checking management with real-time drone analytics, API integration, and data-driven insights.",
+      link: "https://crop-ai-six.vercel.app/",
+      github: "https://github.com/Bobbiehex/CropAI-Watch"
     },
     {
       title: "AgriTech Web App",

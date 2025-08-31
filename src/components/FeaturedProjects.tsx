@@ -19,7 +19,7 @@ const FeaturedProjects = () => {
       title: "Hospital AI Assistant",
       description: "Revolutionary healthcare platform integrating AI-powered assistant for appointment scheduling, patient management, and intelligent healthcare navigation.",
       technologies: ["Next.js", "AI/ML", "PostgreSQL", "Typescript"],
-      link: "#", 
+      link: "https://bob-med.vercel.app/", 
       github: "https://github.com/Bobbiehex/bob_med",
       status: "AI Powered",
       highlight: "Healthcare Innovation"
@@ -28,7 +28,7 @@ const FeaturedProjects = () => {
       title: "AgriTech Management",
       description: "Comprehensive web application for livestock production and breeding management with real-time analytics, IoT integration, and data-driven insights.",
       technologies: ["React", "Typescript", "IoT", "Analytics"],
-      link: "#",
+      link: "https://nextgen-breeders-alliance-nu.vercel.app/",
       github: "https://github.com/Bobbiehex/nextgen-breeders-forge", 
       status: "IoT Integrated",
       highlight: "AgriTech Solution"
@@ -36,12 +36,21 @@ const FeaturedProjects = () => {
     {
       title: "Donation Platform",
       description: "Professional donation landing page with integrated pitch deck presentation and secure Paystack payment gateway for seamless contribution processing.",
-      technologies: ["React", "Paystack", "PHP", "MySQL"],
+      technologies: ["HTML", "Paystack", "CSS", "MySQL"],
       link: "#",
       github: "https://github.com/Bobbiehex/donation-page",
       status: "Payment Integrated",
       highlight: "Fintech Solution"
     },
+    {
+      title: "CropTech AI Webapp",
+      description: "Comprehensive web application for crop production and disease checking management with real-time drone analytics, API integration, and data-driven insights.",
+      technologies: ["React", "Typescript", "AI", "Analytics"],
+      link: "https://crop-ai-six.vercel.app/",
+      github: "https://github.com/Bobbiehex/CropAI-Watch", 
+      status: "AI Integrated",
+      highlight: "AgriTech Solution"
+    },
     {
       title: "Investment Platform",
       description: "A responsive web application that allows users track and manage their investments seamlessly and Paystack payment gateway integration for secure and seamless donations.",
