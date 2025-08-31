@@ -31,8 +31,8 @@ const Projects = () => {
     {
       title: "Donation Landing Page",
       description: "Includes a pitch deck and Paystack payment gateway integration for secure and seamless donations.",
-      link: "https://github.com/Bobbiehex",
-      github: "https://github.com/Bobbiehex/donation-page"
+      link: "https://donation-seven-pink.vercel.app/",
+      github: "https://github.com/Bobbiehex/donation"
     },
     {
       title: "Investment platform",
