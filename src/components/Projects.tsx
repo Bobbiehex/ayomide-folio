@@ -43,8 +43,8 @@ const Projects = () => {
     {
       title: "Responsive Login and Sign-Up Page",
       description: "Fully responsive authentication page for user registration and login, optimized for all devices.",
-      link: "https://github.com/Bobbiehex",
-      github: "https://github.com/Bobbiehex/react-auth-assignment"
+      link: "https://simple-auth-pi-seven.vercel.app/",
+      github: "https://github.com/Bobbiehex/simple-auth"
     }
   ];
 

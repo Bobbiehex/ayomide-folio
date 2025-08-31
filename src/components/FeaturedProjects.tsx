@@ -29,7 +29,7 @@ const FeaturedProjects = () => {
       description: "Comprehensive web application for livestock production and breeding management with real-time analytics, IoT integration, and data-driven insights.",
       technologies: ["React", "Typescript", "IoT", "Analytics"],
       link: "https://nextgen-breeders-alliance-nu.vercel.app/",
-      github: "https://github.com/Bobbiehex/nextgen-breeders-forge", 
+      github: "https://github.com/Bobbiehex/nextgen-breeders-alliance", 
       status: "IoT Integrated",
       highlight: "AgriTech Solution"
     },
@@ -37,7 +37,7 @@ const FeaturedProjects = () => {
       title: "Donation Platform",
       description: "Professional donation landing page with integrated pitch deck presentation and secure Paystack payment gateway for seamless contribution processing.",
       technologies: ["HTML", "Paystack", "CSS", "MySQL"],
-      link: "#",
+      link: "https://donation-seven-pink.vercel.app/",
       github: "https://github.com/Bobbiehex/donation-page",
       status: "Payment Integrated",
       highlight: "Fintech Solution"
